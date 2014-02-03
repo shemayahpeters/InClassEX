@@ -1,0 +1,4 @@
+InClassEX
+=========
+
+in class example
